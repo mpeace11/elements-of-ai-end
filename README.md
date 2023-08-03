@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-When in an academic rabbit hole, this could review your paper/data, articles you've read and recommend articles to cite based on particular criteria (dissenting opinions, supporting work, possible related future directions, etc.). It could also summarize the findings of articles to make it easier to decide which to look into. 
+When in an academic rabbit hole, this could review your paper/data and articles you've cited in said paper and recommend more articles to cite or review based on particular criteria (dissenting opinions, supporting work, possible related future directions, etc.). It could also summarize the findings of articles to make it easier to decide which to look into. 
 
 ## Background
 
