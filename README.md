@@ -21,7 +21,7 @@ First, a paper must be inputted by a user for working on. This will be what the 
 
 ## Challenges
 
-The Rabbit Hole software would not solve problems with plagarism in academia, and it may encourage it. Without having looked through large numbers of papers in order to draw information for a paper, an academic short on time may resort to plagarism, or at least the regurgitation of already known information instead of the creation of new information. It also doesn't guarantee accuracy. This system involves no feature to fact-check the articles for up-to-date and correct information, so the articles being cited may be weak. 
+The Rabbit Hole software would not solve problems with plagarism in academia, and it may encourage plagarism further. Without having looked through large numbers of papers in order to draw information for a paper, an academic short on time may resort to plagarism, or at least the regurgitation of already known information instead of the creation of new information. It also doesn't guarantee accuracy. This system involves no feature to fact-check the articles for up-to-date and correct information, so the articles being cited may be weak. 
 
 ## What next?
 
