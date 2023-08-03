@@ -17,7 +17,7 @@ I'd like this to be a viable solution for those who are inexperienced in coding,
 
 ## Data sources and AI methods
 
-There are two possible ways of doing this. The first is requiring users to submit papers of their own to use the software (beyond the paper they have inputted to work on). This means the system would be searching through its own records to draw out papers for its users. The second way would be to have the system search academic databases for papers that may or may not belong to its users. Either way, some data comes from the user (the inputted paper and rating of the AI's effectiveness) and some from other people (the papers being presented). 
+First, a paper must be inputted by a user for working on. This will be what the system uses to glean subjects/key words to look for in relevant papers. After this, there are two possible ways of gathering literature for a user. The first is requiring users to submit papers of their own to use the software (beyond the paper they have inputted to work on). This means the system would be searching through its own records to draw out papers for its users. The second way would be to have the system search academic databases for papers that may or may not belong to its users. Regardless of path taken, papers are then rated by users based on relevancy so the system can learn. Either way, some data comes from the user (the inputted paper and rating of the AI's effectiveness) and some from other people (the papers being presented). 
 
 ## Challenges
 
