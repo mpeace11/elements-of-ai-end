@@ -9,7 +9,7 @@ When in an academic rabbit hole, this could review your paper/data, articles you
 
 ## Background
 
-I want to be a neuroscience researcher. In a field this new, there is a lot of literature to wade through in a rabbit hole to determine the quality, topic, an interconnectedness to your own topic for. I expect some level of difficulty on this front and have seen it in PhD students I've worked under who were on a time crunch to graduate. A tool that can help sort and present that articles in a more palatable fashion could make writing and reviewing papers much easier. The inclusion of a feature that allows for decisions to be made based on particular criteria beyond relevancy (dissent, agreement, relatedness, etc.) could also prove quite useful - like a search filter. The summary feature could streamline this process in cases where there is little time on the clock. 
+I want to be a neuroscience researcher. In a field this new, there is a lot of literature to wade through in a rabbit hole to determine the quality, topic, an interconnectedness to your own topic for. I expect some level of difficulty on this front and have seen it in PhD students I've worked under who were on a time crunch to graduate. A tool that can help sort and present articles in a more palatable fashion could make writing and reviewing papers much easier. The inclusion of a feature that allows for articles to be presented based on particular criteria beyond relevancy (ex. dissent, agreement, relatedness, etc.) could also prove quite useful - like a search filter. A summary feature that sums up suggested literature could streamline this process in cases where there is little time left on the clock. 
 
 ## How is it used?
 
